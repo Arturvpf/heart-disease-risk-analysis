@@ -16,7 +16,7 @@ The dataset (`Heart_Disease_Dataset.csv`) contains variables such as age, BMI, c
 
 | Name | Email |
 |------|-------|
-| Artur Fernandes | avpf@cin.ufpe.br |
+| Artur Fernandes | artuvpf3@gmail.com |
 | Breno Ramos | brsg@cin.ufpe.br |
 | Caio Vilas Boas | ccnvb@cin.ufpe.br |
 | João Nascimento | jvsn2@cin.ufpe.br |
